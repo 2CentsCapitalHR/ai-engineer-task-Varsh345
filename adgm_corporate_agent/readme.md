@@ -28,3 +28,8 @@ An AI-powered assistant to help verify legal documents for Abu Dhabi Global Mark
 2. The app will detect the process, verify document checklist, and find issues.
 3. View results on the page.
 4. Download annotated documents and a JSON report using the buttons.
+
+
+##OUTPUT:
+https://github.com/user-attachments/assets/d1b55145-21e8-474d-b84f-57c6b480f434
+
