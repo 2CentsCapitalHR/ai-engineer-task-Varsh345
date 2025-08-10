@@ -1,0 +1,8 @@
+streamlit
+python-docx
+openai
+python-dotenv
+pypdf
+tiktoken
+numpy
+scipy
