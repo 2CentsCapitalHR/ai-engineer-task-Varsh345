@@ -1,0 +1,39 @@
+{
+    "process": "Company Formation & Governance",
+    "documents_uploaded": 3,
+    "required_documents": 5,
+    "missing_document": [
+        "Registers",
+        "UBO"
+    ],
+    "issues_found": [
+        {
+            "document": "Articles of Association",
+            "section": "Clause 3.1",
+            "issue": "Jurisdiction clause does not specify ADGM",
+            "severity": "High",
+            "suggestion": "Update jurisdiction to ADGM Courts."
+        },
+        {
+            "document": "Board Resolutions",
+            "section": "Jurisdiction Clause",
+            "issue": "Jurisdiction clause does not specify ADGM",
+            "severity": "High",
+            "suggestion": "Ensure board resolutions reflect ADGM jurisdiction."
+        },
+        {
+            "document": "Memorandum of Association",
+            "section": "Clause 10.1",
+            "issue": "Jurisdiction clause does not specify ADGM",
+            "severity": "High",
+            "suggestion": "Update jurisdiction in MoA to ADGM Courts."
+        },
+        {
+            "document": "Memorandum of Association",
+            "section": "End",
+            "issue": "Missing signature section",
+            "severity": "Medium",
+            "suggestion": "Add signature and date."
+        }
+    ]
+}

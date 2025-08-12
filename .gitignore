@@ -11,10 +11,6 @@ venv/
 # VSCode settings
 .vscode/
 
-# Output files
-output/
-kb_embeddings.pkl
-
 # System files
 .DS_Store
 Thumbs.db
